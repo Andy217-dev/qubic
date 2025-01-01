@@ -1518,7 +1518,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=ETH&toChain=BITCOIN&from=ETH&amount=1&to=BTC",
+                                    href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=ETH&toChain=BITCOIN&from=ETH&amount=1&to=BTC",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1529,7 +1529,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=BITCOIN&toChain=LITECOIN&from=BTC&amount=1&to=LTC",
+                                    href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=BITCOIN&toChain=LITECOIN&from=BTC&amount=1&to=LTC",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1544,7 +1544,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=BITCOIN&toChain=ETH&from=BTC&amount=1&to=ETH",
+                                    href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=BITCOIN&toChain=ETH&from=BTC&amount=1&to=ETH",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1555,7 +1555,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=SOLANA&toChain=ETH&from=SOL&amount=10&to=ETH",
+                                    href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=SOLANA&toChain=ETH&from=SOL&amount=10&to=ETH",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1943,27 +1943,27 @@
                     children: [
                       (0, s.tZ)(Y.c, {
                         chainName: "TON",
-                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TON&toChain=ETH&from=TON&to=ETH&amount=10",
+                        href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=TON&toChain=ETH&from=TON&to=ETH&amount=10",
                         imgSrc: "/images/bridge-crypto/ton.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Tron",
-                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TRON&toChain=ETH&from=TRX&to=ETH&amount=300",
+                        href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=TRON&toChain=ETH&from=TRX&to=ETH&amount=300",
                         imgSrc: "/images/bridge-crypto/tron.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Mantle",
-                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=MANTLE&toChain=ARBITRUM&from=MNT&to=ETH&amount=10",
+                        href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=MANTLE&toChain=ARBITRUM&from=MNT&to=ETH&amount=10",
                         imgSrc: "/images/bridge-crypto/mantle.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Litecoin",
-                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=LITECOIN&toChain=ARBITRUM&from=LTC&to=ETH&amount=1",
+                        href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=LITECOIN&toChain=ARBITRUM&from=LTC&to=ETH&amount=1",
                         imgSrc: "/images/bridge-crypto/litecoin.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Taiko",
-                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TAIKO&toChain=ARBITRUM&from=ETH&to=ETH&amount=1",
+                        href: "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=TAIKO&toChain=ARBITRUM&from=ETH&to=ETH&amount=1",
                         imgSrc: "/images/bridge-crypto/taiko.png",
                       }),
                       (0, s.tZ)("a", {

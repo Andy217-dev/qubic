@@ -6225,20 +6225,20 @@
       });
       var n = { desktopWidth: 1200, tabletWidth: 767, mobileWidth: 480 },
         r = {
-          app: "https://https://app-qubic-andy217-devs-projects.vercel.app//",
+          app: "https://app-qubic-andy217-devs-projects.vercel.app/",
           appFiat:
-            "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=fiat&toChain=ETH&from=USD&to=ETH&amount=100",
-          revokeApproval: "https://https://app-qubic-andy217-devs-projects.vercel.app//revoke-approval",
+            "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=fiat&toChain=ETH&from=USD&to=ETH&amount=100",
+          revokeApproval: "https://app-qubic-andy217-devs-projects.vercel.app/revoke-approval",
           claim: "https://claim.rubic.exchange/",
           b2b: "https://docs.crystalballsai.xyz/",
-          lp: "https://https://app-qubic-andy217-devs-projects.vercel.app//staking-lp",
-          earn: "https://https://app-qubic-andy217-devs-projects.vercel.app//staking",
-          faq: "https://https://app-qubic-andy217-devs-projects.vercel.app//faq",
-          promotionPage: "https://https://app-qubic-andy217-devs-projects.vercel.app//promotion",
+          lp: "https://app-qubic-andy217-devs-projects.vercel.app/staking-lp",
+          earn: "https://app-qubic-andy217-devs-projects.vercel.app/staking",
+          faq: "https://app-qubic-andy217-devs-projects.vercel.app/faq",
+          promotionPage: "https://app-qubic-andy217-devs-projects.vercel.app/promotion",
           buyRbc:
             "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xComingSoon",
           bridgeRbc:
-            "https://https://app-qubic-andy217-devs-projects.vercel.app//?from=QBC&to=QBC&fromChain=ETH&toChain=ARBITRUM&amount=50000",
+            "https://app-qubic-andy217-devs-projects.vercel.app/?from=QBC&to=QBC&fromChain=ETH&toChain=ARBITRUM&amount=50000",
           onePager: "/pdf/one-pager.pdf",
           whitePaper: "/pdf/white-paper.pdf",
           policy: "/pdf/privacy-policy.pdf",

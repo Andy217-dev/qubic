@@ -460,7 +460,7 @@
                         " ",
                         (0, s.BX)("a", {
                           className: E().circle__link,
-                          href: "https://https://app-qubic-andy217-devs-projects.vercel.app//swap-and-earn",
+                          href: "https://app-qubic-andy217-devs-projects.vercel.app/swap-and-earn",
                           target: "_blank",
                           rel: "noreferrer",
                           children: [" ", "#SwapToEarn"],
