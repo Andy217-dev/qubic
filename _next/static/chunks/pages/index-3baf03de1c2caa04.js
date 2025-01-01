@@ -1176,7 +1176,6 @@
                       className: L().totalNumbers__top,
                       children: [
                         (0, s.BX)("a", {
-                          href: "https://docs.crystalballsai.xyz/rubic/supported-chains-bridges-and-dexs#supported-chains",
                           target: "_blank",
                           rel: "noreferrer",
                           className: c()([
@@ -1202,7 +1201,6 @@
                           ],
                         }),
                         (0, s.BX)("a", {
-                          href: "https://docs.crystalballsai.xyz/rubic/supported-chains-bridges-and-dexs#supported-bridges",
                           target: "_blank",
                           rel: "noreferrer",
                           className: c()([
@@ -1235,7 +1233,6 @@
                           ],
                         }),
                         (0, s.BX)("a", {
-                          href: "https://docs.crystalballsai.xyz/rubic/supported-chains-bridges-and-dexs#supported-dexs-and-on-chain-swap-providers",
                           target: "_blank",
                           rel: "noreferrer",
                           className: c()([

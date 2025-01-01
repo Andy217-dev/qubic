@@ -1554,7 +1554,7 @@
                         (0, n.BX)("p", {
                           className: p().footer__copyright,
                           children: [
-                            "\xa9 Copyright Qubic AI 2024,",
+                            "\xa9 Copyright Qubic AI 2025,",
                             " ",
                             (0, n.tZ)("a", {
                               className: p()["footer__copyright-privacy"],
