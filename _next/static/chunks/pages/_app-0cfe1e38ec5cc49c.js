@@ -1216,7 +1216,7 @@
           {
             name: "gitbook",
             visibleName: "Docs",
-            link: "https://docs.crystalballsai.xyz/",
+            link: "https://mighty-2.gitbook.io/qubic/",
           },
         ],
         h = function () {
@@ -6003,7 +6003,7 @@
             i = e.text,
             a = e.accentedWords,
             o = void 0 === a ? [] : a,
-            s = "https://docs.crystalballsai.xyz",
+            s = "https://mighty-2.gitbook.io/qubic",
             l = (0, r.useMemo)(
               function () {
                 var e,
@@ -6230,7 +6230,7 @@
             "https://app-qubic-andy217-devs-projects.vercel.app/?fromChain=fiat&toChain=ETH&from=USD&to=ETH&amount=100",
           revokeApproval: "https://app-qubic-andy217-devs-projects.vercel.app/revoke-approval",
           claim: "https://claim.rubic.exchange/",
-          b2b: "https://docs.crystalballsai.xyz/",
+          b2b: "https://mighty-2.gitbook.io/qubic/",
           lp: "https://app-qubic-andy217-devs-projects.vercel.app/staking-lp",
           earn: "https://app-qubic-andy217-devs-projects.vercel.app/staking",
           faq: "https://app-qubic-andy217-devs-projects.vercel.app/faq",
@@ -6244,24 +6244,24 @@
           policy: "/pdf/privacy-policy.pdf",
           termsOfUse: "/pdf/terms-of-use.pdf",
           pitchDeck: "/pdf/pitch-deck.pdf",
-          stakingFullRules: "https://docs.crystalballsai.xyz",
+          stakingFullRules: "https://mighty-2.gitbook.io/qubic",
           brandAssets:
             "https://drive.google.com/drive/folders/1pBthXfxfV4pcvAvWZT7Yv8w5M9K8-wta",
           kraken:
             "https://blog.kraken.com/post/13415/trading-for-cvx-fxs-multi-powr-pla-qnt-rbc-rare-toke-starts-march-29-deposit-now/",
-          doc: "https://docs.crystalballsai.xyz",
-          docSDK: "https://docs.crystalballsai.xyz/integrate-sdk/sdk-overview",
+          doc: "https://mighty-2.gitbook.io/qubic",
+          docSDK: "https://mighty-2.gitbook.io/qubic/integrate-sdk/sdk-overview",
           docWidget:
-            "https://docs.crystalballsai.xyz/integrate-widget/rubic-relay-widget",
+            "https://mighty-2.gitbook.io/qubic/integrate-widget/rubic-relay-widget",
           blog: "https://rubic.exchange/blog",
           tools: "https://tools.rubic.exchange",
           contactUs: "https://t.me",
-          security: "https://docs.crystalballsai.xyz/rubic/security",
+          security: "https://mighty-2.gitbook.io/qubic/rubic/security",
           stats: "https://dune.com/rubic_exchange/rubic-general-dashboard",
-          roadmap: "https://docs.crystalballsai.xyz/rubic/roadmap",
-          rbcToken: "https://docs.crystalballsai.xyz/rubic/tokenomics",
-          sdk: "https://docs.crystalballsai.xyz/rubic-sdk/sdk-integrations",
-          navDocs: "https://docs.crystalballsai.xyz",
+          roadmap: "https://mighty-2.gitbook.io/qubic/rubic/roadmap",
+          rbcToken: "https://mighty-2.gitbook.io/qubic/rubic/tokenomics",
+          sdk: "https://mighty-2.gitbook.io/qubic/rubic-sdk/sdk-integrations",
+          navDocs: "https://mighty-2.gitbook.io/qubic",
           tutorials: "https://www.youtube.com/c/RubicExchange",
           promoMaterials:
             "https://drive.google.com/drive/folders/1r5opx9rE9ERiYh8YCtBL_Mma5xT3vX1O?usp=sharing",

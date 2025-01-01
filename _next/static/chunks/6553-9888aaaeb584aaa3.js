@@ -148,7 +148,7 @@
                         ],
                       }),
                       // (0, s.BX)("a", {
-                      //   href: "https://docs.crystalballsai.xyz/legal-documentation/mixbytes-audit",
+                      //   href: "https://mighty-2.gitbook.io/qubic/legal-documentation/mixbytes-audit",
                       //   target: "_blank",
                       //   rel: "noreferrer",
                       //   className: a()([

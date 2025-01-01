@@ -1964,7 +1964,7 @@
                         imgSrc: "/images/bridge-crypto/taiko.png",
                       }),
                       (0, s.tZ)("a", {
-                        href: "https://docs.crystalballsai.xyz/rubic/rubics-ecosystem",
+                        href: "https://mighty-2.gitbook.io/qubic/rubic/rubics-ecosystem",
                         target: "_blank",
                         rel: "noreferrer",
                         className: J().link_desktop,
@@ -1973,7 +1973,7 @@
                     ],
                   }),
                   (0, s.tZ)("a", {
-                    href: "https://docs.crystalballsai.xyz/rubic/rubics-ecosystem",
+                    href: "https://mighty-2.gitbook.io/qubic/rubic/rubics-ecosystem",
                     target: "_blank",
                     rel: "noreferrer",
                     className: J().link_mobile,

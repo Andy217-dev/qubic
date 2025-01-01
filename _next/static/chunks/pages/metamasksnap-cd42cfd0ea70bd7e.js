@@ -810,7 +810,7 @@
                         }),
                       }),
                       (0, s.tZ)("a", {
-                        href: "https://docs.crystalballsai.xyz/contacts/business-development",
+                        href: "https://mighty-2.gitbook.io/qubic/contacts/business-development",
                         target: "_blank",
                         rel: "noreferrer",
                         className: W()["questions__buttons-button"],
@@ -830,7 +830,7 @@
                         }),
                       }),
                       (0, s.tZ)("a", {
-                        href: "https://docs.crystalballsai.xyz/contacts/pr-marketing",
+                        href: "https://mighty-2.gitbook.io/qubic/contacts/pr-marketing",
                         target: "_blank",
                         rel: "noreferrer",
                         className: W()["questions__buttons-button-wrapper"],
