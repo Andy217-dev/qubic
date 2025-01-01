@@ -89,8 +89,7 @@
                       (0, s.BX)("div", {
                         className: c()["grantsAndAudits__consensus-incubation"],
                         children: [
-                          (0, s.BX)("a", {
-                            href: "https://consensys.io/scale-program",
+                          (0, s.BX)("a", {                            
                             target: "_blank",
                             rel: "noreferrer",
                             className: a()([
@@ -116,7 +115,6 @@
                             ],
                           }),
                           (0, s.BX)("a", {
-                            href: "https://www.sonynetwork.co.jp/sonynetworkcomsingapore/en/incubation/",
                             target: "_blank",
                             rel: "noreferrer",
                             className: a()([

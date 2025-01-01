@@ -6225,20 +6225,20 @@
       });
       var n = { desktopWidth: 1200, tabletWidth: 767, mobileWidth: 480 },
         r = {
-          app: "https://app.crystalballsai.xyz/",
+          app: "https://https://app-qubic-andy217-devs-projects.vercel.app//",
           appFiat:
-            "https://app.crystalballsai.xyz/?fromChain=fiat&toChain=ETH&from=USD&to=ETH&amount=100",
-          revokeApproval: "https://app.crystalballsai.xyz/revoke-approval",
+            "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=fiat&toChain=ETH&from=USD&to=ETH&amount=100",
+          revokeApproval: "https://https://app-qubic-andy217-devs-projects.vercel.app//revoke-approval",
           claim: "https://claim.rubic.exchange/",
           b2b: "https://docs.crystalballsai.xyz/",
-          lp: "https://app.crystalballsai.xyz/staking-lp",
-          earn: "https://app.crystalballsai.xyz/staking",
-          faq: "https://app.crystalballsai.xyz/faq",
-          promotionPage: "https://app.crystalballsai.xyz/promotion",
+          lp: "https://https://app-qubic-andy217-devs-projects.vercel.app//staking-lp",
+          earn: "https://https://app-qubic-andy217-devs-projects.vercel.app//staking",
+          faq: "https://https://app-qubic-andy217-devs-projects.vercel.app//faq",
+          promotionPage: "https://https://app-qubic-andy217-devs-projects.vercel.app//promotion",
           buyRbc:
-            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x9DA05208B79FfB93Cd3791483Fc536E8A16DA6D9",
+            "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xComingSoon",
           bridgeRbc:
-            "https://app.crystalballsai.xyz/?from=QBC&to=QBC&fromChain=ETH&toChain=ARBITRUM&amount=50000",
+            "https://https://app-qubic-andy217-devs-projects.vercel.app//?from=QBC&to=QBC&fromChain=ETH&toChain=ARBITRUM&amount=50000",
           onePager: "/pdf/one-pager.pdf",
           whitePaper: "/pdf/white-paper.pdf",
           policy: "/pdf/privacy-policy.pdf",

@@ -43,7 +43,6 @@
                     className: o().whyRubic__cards,
                     children: [
                       (0, s.tZ)("a", {
-                        href: "https://youtu.be/eIwxu4-dJCw?si=fDrA_e536wQz2U2I",
                         target: "_blank",
                         rel: "noreferrer",
                         className: o().whyRubic__card,
@@ -927,7 +926,7 @@
                             }),
                           }),
                           (0, s.tZ)("a", {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x9DA05208B79FfB93Cd3791483Fc536E8A16DA6D9",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xComingSoon",
                             className: Z().rbcToken__dex,
                             target: "_blank",
                             rel: "noreferrer",
@@ -1519,7 +1518,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://app.crystalballsai.xyz/?fromChain=ETH&toChain=BITCOIN&from=ETH&amount=1&to=BTC",
+                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=ETH&toChain=BITCOIN&from=ETH&amount=1&to=BTC",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1530,7 +1529,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://app.crystalballsai.xyz/?fromChain=BITCOIN&toChain=LITECOIN&from=BTC&amount=1&to=LTC",
+                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=BITCOIN&toChain=LITECOIN&from=BTC&amount=1&to=LTC",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1545,7 +1544,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://app.crystalballsai.xyz/?fromChain=BITCOIN&toChain=ETH&from=BTC&amount=1&to=ETH",
+                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=BITCOIN&toChain=ETH&from=BTC&amount=1&to=ETH",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1556,7 +1555,7 @@
                                   (0, s.tZ)("a", {
                                     className:
                                       G()["rubicSafe__popular-pairs-link"],
-                                    href: "https://app.crystalballsai.xyz/?fromChain=SOLANA&toChain=ETH&from=SOL&amount=10&to=ETH",
+                                    href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=SOLANA&toChain=ETH&from=SOL&amount=10&to=ETH",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, s.tZ)("img", {
@@ -1944,27 +1943,27 @@
                     children: [
                       (0, s.tZ)(Y.c, {
                         chainName: "TON",
-                        href: "https://app.crystalballsai.xyz/?fromChain=TON&toChain=ETH&from=TON&to=ETH&amount=10",
+                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TON&toChain=ETH&from=TON&to=ETH&amount=10",
                         imgSrc: "/images/bridge-crypto/ton.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Tron",
-                        href: "https://app.crystalballsai.xyz/?fromChain=TRON&toChain=ETH&from=TRX&to=ETH&amount=300",
+                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TRON&toChain=ETH&from=TRX&to=ETH&amount=300",
                         imgSrc: "/images/bridge-crypto/tron.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Mantle",
-                        href: "https://app.crystalballsai.xyz/?fromChain=MANTLE&toChain=ARBITRUM&from=MNT&to=ETH&amount=10",
+                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=MANTLE&toChain=ARBITRUM&from=MNT&to=ETH&amount=10",
                         imgSrc: "/images/bridge-crypto/mantle.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Litecoin",
-                        href: "https://app.crystalballsai.xyz/?fromChain=LITECOIN&toChain=ARBITRUM&from=LTC&to=ETH&amount=1",
+                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=LITECOIN&toChain=ARBITRUM&from=LTC&to=ETH&amount=1",
                         imgSrc: "/images/bridge-crypto/litecoin.png",
                       }),
                       (0, s.tZ)(Y.c, {
                         chainName: "Taiko",
-                        href: "https://app.crystalballsai.xyz/?fromChain=TAIKO&toChain=ARBITRUM&from=ETH&to=ETH&amount=1",
+                        href: "https://https://app-qubic-andy217-devs-projects.vercel.app//?fromChain=TAIKO&toChain=ARBITRUM&from=ETH&to=ETH&amount=1",
                         imgSrc: "/images/bridge-crypto/taiko.png",
                       }),
                       (0, s.tZ)("a", {
